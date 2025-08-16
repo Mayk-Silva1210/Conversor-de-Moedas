@@ -24,7 +24,7 @@ O projeto permite converter valores entre diferentes moedas de forma prática e 
 ## 📦 Como Executar o Projeto
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/usuario/conversor-moedas.git
+   git clone https://github.com/Mayk-Silva10/Conversor-de-Moedas.git
 Ases
 
 festança
@@ -42,5 +42,6 @@ Digite
 Escolha a moeda de origem (ex: USD).
 
 Escolha a moeda de destino (ex: BRL ).
+
 
 Clique em Convertere veja o
