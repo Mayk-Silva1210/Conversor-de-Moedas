@@ -25,19 +25,13 @@ O projeto permite converter valores entre diferentes moedas de forma prática e 
 1. Clone este repositório:
    ```bash
    git clone https://github.com/Mayk-Silva10/Conversor-de-Moedas.git
-Ases
+   
+Comando para acesso a pasta:
+   cd conversor-moedas
 
-festança
+🌍 Exemplo de conversão:
 
-Cópia
-
-Editar
-cd conversor-moedas
-Abra o arquivo index.htmlde
-(Não é necessário
-
-🌍 Exemplo d
-Digite
+Digite o valor desejado para conversão.
 
 Escolha a moeda de origem (ex: USD).
 
@@ -45,3 +39,4 @@ Escolha a moeda de destino (ex: BRL ).
 
 
 Clique em Convertere veja o
+
